@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aZzFH6ffs78r/Vn/cxu+bDOBtgDB4eKyaaNWW3u3dR0=",
+  "Source": "sccm",
+  "BasePath": "_content/sccm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
